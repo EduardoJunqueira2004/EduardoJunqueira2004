@@ -16,3 +16,6 @@
 - [Projeto-AED](https://github.com/EduardoJunqueira2004/Projeto-AED)
 - [Projeto-P2](https://github.com/EduardoJunqueira2004/Projeto-P2)
 - [LourencoGarces/Trab-1-pw](https://github.com/LourencoGarces/Trab-1-pw)
+
+
+![Eduardo Junqueira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoJunqueira2004&show_icons=true&theme=radical)
