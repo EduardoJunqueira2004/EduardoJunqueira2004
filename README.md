@@ -19,3 +19,4 @@
 
 
 ![Eduardo Junqueira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoJunqueira2004&show_icons=true&theme=radical)
+[![Eduardo Junqueira's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EduardoJunqueira2004)](https://github.com/anuraghazra/github-readme-stats)
