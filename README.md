@@ -4,13 +4,13 @@
 ![Eduardo Junqueira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoJunqueira2004&show_icons=true&theme=radical)
 
 ## Technologies I use daily
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
-![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
-![API](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg)
-![MATLAB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg)
-![Assembly](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
+</p>
 
 ## Popular Projects
 - [LourencoGarces/Trab-1-pw](https://github.com/LourencoGarces/Trab-1-pw)
