@@ -34,6 +34,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@eduardomj2004?si=T7PVhTbsEY3FDfB8)
 
 ## Favorite Tools
-- 📋 Code Editor: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://img.icons8.com/color/40/000000/tinkercad.png" width="40" height="40"/>
-- 🔧 Microcontrollers: <img src="https://img.icons8.com/fluency/40/000000/esp32.png" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
-- 🖥️ Platforms: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> <img src="https://img.icons8.com/color/40/000000/vmware.png" width="40" height="40"/>
+- 📋 Code Editor: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+- 🔧 Microcontrollers: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
+- 🖥️ Platforms: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40"/>  <img src="https://img.icons8.com/color/40/000000/vmware.png" width="40" height="40"/>
