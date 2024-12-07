@@ -39,8 +39,8 @@
 - 🧑🏻‍💻 I'm an Apple user and curious about IoT products!
 - 🎓 University student interested in programming more about Full Stack Engineer!
 - 🧑🏻‍💻I always stay in CodCademy doing certificates and improve my code skills!
-- 🚀 Exploring development in C, C++, JAVA, Kotlin, Node, HTML, CSS, JavaScript, SQL, MATLAB, PHP, TypeScript, Ruby, Go,Perl and Scala.
-🎲 In my free time, I like playing chess, making videos on YouTube, and practicing cycling.
+- 🚀 Exploring development in C, C++, JAVA, Kotlin, Node, HTML, CSS, JavaScript, SQL, MATLAB, PHP, TypeScript, Go, Perl and Scala.
+-🎲 In my free time, I like playing chess, making videos on YouTube, and practicing cycling.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-junqueira-1696b5177)
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@eduardomj2004?si=T7PVhTbsEY3FDfB8)
