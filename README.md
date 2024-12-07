@@ -20,7 +20,6 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" alt="Perl" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" width="40" height="40"/>
 
@@ -40,7 +39,7 @@
 - 🧑🏻‍💻 I'm an Apple user and curious about IoT products!
 - 🎓 University student interested in programming more about Full Stack Engineer!
 - 🧑🏻‍💻I always stay in CodCademy doing certificates and improve my code skills!
-- 🚀 Exploring development in C, C++, JAVA, Kotlin, Node, HTML, CSS, JavaScript, SQL, MATLAB, PHP, TypeScript, Ruby, Go, Rust, Perl and Scala.
+- 🚀 Exploring development in C, C++, JAVA, Kotlin, Node, HTML, CSS, JavaScript, SQL, MATLAB, PHP, TypeScript, Ruby, Go,Perl and Scala.
 🎲 In my free time, I like playing chess, making videos on YouTube, and practicing cycling.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-junqueira-1696b5177)
