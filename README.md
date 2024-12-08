@@ -26,13 +26,17 @@
 </p>
 
 ## Popular Projects always in change:
-- [LourencoGarces/Trab-1-pw](https://github.com/LourencoGarces/Trab-1-pw)
 - [Projeto-P2](https://github.com/EduardoJunqueira2004/Projeto-P2)
 - [PRJ-10](https://github.com/EduardoJunqueira2004/PRJ-10)
 - [Projeto-P1](https://github.com/EduardoJunqueira2004/Projeto-P1)
 - [Projeto-AED](https://github.com/EduardoJunqueira2004/Projeto-AED)
 - [C](https://github.com/EduardoJunqueira2004/C.git)
 - [GDP](https://github.com/EduardoJunqueira2004/GDP.git)
+- [WEBJohnDeere](https://github.com/EduardoJunqueira2004/WEBJohnDeere.git)
+- [LourencoGarces/Trab-1-pw](https://github.com/LourencoGarces/Trab-1-pw)
+- [TrabalhoPratico PM](https://github.com/manuvskiii/TrabalhoPratico.git)
+- [SISEMB CODE](https://github.com/EduardoJunqueira2004/SISEMB_Code.git)
+- [Gest-o-de-Mercadorias-em-Armaz-ns JAVA](https://github.com/EduardoJunqueira2004/Gest-o-de-Mercadorias-em-Armaz-ns.git)
 
   
 ## About Me @Eduardojunqueira:
