@@ -26,19 +26,19 @@
 </p>
 
 ## Popular Projects always in change:
-- [Projeto-P2 JAVA](https://github.com/EduardoJunqueira2004/Projeto-P2)
+- [Projeto-Programação2 JAVA](https://github.com/EduardoJunqueira2004/Projeto-P2)
 - [PRJ-10 MATLAB](https://github.com/EduardoJunqueira2004/PRJ-10)
-- [Projeto-P1 C](https://github.com/EduardoJunqueira2004/Projeto-P1)
-- [Projeto-AED C](https://github.com/EduardoJunqueira2004/Projeto-AED)
-- [C all](https://github.com/EduardoJunqueira2004/C.git)
-- [GDP Docker](https://github.com/EduardoJunqueira2004/GDP.git)
+- [Projeto-Programação1 C](https://github.com/EduardoJunqueira2004/Projeto-P1)
+- [Projeto-Algoritmos e Estrutura de Dados C](https://github.com/EduardoJunqueira2004/Projeto-AED)
+- [Linguagem C all](https://github.com/EduardoJunqueira2004/C.git)
+- [DevOps implementation](https://github.com/EduardoJunqueira2004/GDP.git)
 - [WEBJohnDeere Fronted](https://github.com/EduardoJunqueira2004/WEBJohnDeere.git)
-- [LourencoGarces/Trab-1-pw Fronted+BackEnd](https://github.com/LourencoGarces/Trab-1-pw)
-- [TrabalhoPratico PM Kotlin](https://github.com/manuvskiii/TrabalhoPratico.git)
+- [LourencoGarces/Trab-1-Programação WEB Fronted+BackEnd](https://github.com/LourencoGarces/Trab-1-pw)
+- [Trabalho Prático Programação movel Kotlin](https://github.com/manuvskiii/TrabalhoPratico.git)
 - [SISEMB CODE C++](https://github.com/EduardoJunqueira2004/SISEMB_Code.git)
-- [Gest-o-de-Mercadorias-em-Armaz-ns JAVA](https://github.com/EduardoJunqueira2004/Gest-o-de-Mercadorias-em-Armaz-ns.git)
-
-  
+- [Gestao de Mercadorias em Armazens JAVA](https://github.com/EduardoJunqueira2004/Gest-o-de-Mercadorias-em-Armaz-ns.git)
+- [Sistema Inteligent eTrafego Urbano Cyber-Physical](https://github.com/EduardoJunqueira2004/SistemaInteligenteTrafegoUrbano-Ciberfisico.git)
+- [Chess Game](https://github.com/EduardoJunqueira2004/ChessGame.git)
 ## About Me @Eduardojunqueira:
 - 🧑🏻‍💻 I'm an Apple user and curious about IoT products!
 - 🎓 University student interested in programming more about Full Stack Engineer!
