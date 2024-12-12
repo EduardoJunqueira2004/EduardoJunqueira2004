@@ -36,9 +36,11 @@
 - [LourencoGarces/Trab-1-Programação WEB Fronted+BackEnd](https://github.com/LourencoGarces/Trab-1-pw)
 - [Trabalho Prático Programação movel Kotlin](https://github.com/manuvskiii/TrabalhoPratico.git)
 - [SISEMB CODE C++](https://github.com/EduardoJunqueira2004/SISEMB_Code.git)
+- [SISEMB ATmega328P C++ exercices](https://github.com/EduardoJunqueira2004/ATmega328P-C-.git)
 - [Gestao de Mercadorias em Armazens JAVA](https://github.com/EduardoJunqueira2004/Gest-o-de-Mercadorias-em-Armaz-ns.git)
 - [Sistema Inteligent eTrafego Urbano Cyber-Physical](https://github.com/EduardoJunqueira2004/SistemaInteligenteTrafegoUrbano-Ciberfisico.git)
 - [Chess Game](https://github.com/EduardoJunqueira2004/ChessGame.git)
+- [Pascal Language](https://github.com/EduardoJunqueira2004/Pascal.git)
 ## About Me @Eduardojunqueira:
 - 🧑🏻‍💻 I'm an Apple user and curious about IoT products!
 - 🎓 University student interested in programming more about Full Stack Engineer!
