@@ -22,6 +22,19 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" alt="Perl" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" alt="Assembly" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/octave/octave-original.svg" alt="Octave" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+
+
+
+
+
+   
+
 
 </p>
 
@@ -41,6 +54,7 @@
 - [Sistema Inteligent eTrafego Urbano Cyber-Physical](https://github.com/EduardoJunqueira2004/SistemaInteligenteTrafegoUrbano-Ciberfisico.git)
 - [Chess Game](https://github.com/EduardoJunqueira2004/ChessGame.git)
 - [Pascal Language](https://github.com/EduardoJunqueira2004/Pascal.git)
+- [Assembly code all](https://github.com/EduardoJunqueira2004/Assembly-code.git)
 ## About Me @Eduardojunqueira:
 - 🧑🏻‍💻 I'm an Apple user and curious about IoT products!
 - 🎓 University student interested in programming more about Full Stack Engineer!
