@@ -74,13 +74,35 @@
 ---
 
 ## Favorite Tools:
-- 📋 Code Editor: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40"/>
-- 🖥️ Platforms: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40"/>  <img src="https://img.icons8.com/color/40/000000/vmware.png" width="40" height="40"/>
-<img src="https://img.icons8.com/color/40/000000/parallels-desktop.png" width="40" height="40"/>
-- 📱 Mobile Development: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40"/>
-- 🎥 Content Creation: <img src="https://img.icons8.com/color/40/000000/youtube-play.png" width="40" height="40"/>
-- 🔧 Desenvolvimento:  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40"/>
-- 📚 Organização e Notas: <img src="https://img.icons8.com/color/40/000000/notion--v1.png" width="40" height="40"/>
-- 🎧 Áudio e Multimédia: <img src="https://img.icons8.com/color/40/000000/audacity.png" width="40" height="40"/> <img src="https://img.icons8.com/color/40/000000/obs-studio.png" width="40" height="40"/>
-- 📦 Outros: 
-  <img src="https://img.icons8.com/color/40/000000/discord-logo.png" width="40" height="40"/><img src="https://img.icons8.com/color/40/000000/system-task.png" width="40" height="40"/>
+- 📋 Code Editor: 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40"/>
+
+- 🖥️ Platforms: 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40"/>  
+  <img src="https://img.icons8.com/color/40/000000/vmware.png" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/40/000000/parallels-desktop.png" width="40" height="40"/>
+
+- 📱 Mobile Development: 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40"/>
+
+- 🎥 Content Creation: 
+  <img src="https://img.icons8.com/color/40/000000/youtube-play.png" width="40" height="40"/>
+
+- 🔧 Development:  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40"/>
+
+- 📚 Organization and Notes: 
+  <img src="https://img.icons8.com/color/40/000000/notion--v1.png" width="40" height="40"/>
+
+- 🎧 Audio and Multimedia: 
+  <img src="https://img.icons8.com/color/40/000000/audacity.png" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/40/000000/obs-studio.png" width="40" height="40"/>
+
+- 📦 Others:  
+  <img src="https://img.icons8.com/color/40/000000/discord-logo.png" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/40/000000/system-task.png" width="40" height="40"/>
