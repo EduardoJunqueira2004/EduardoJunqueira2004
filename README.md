@@ -82,7 +82,6 @@
 - 🖥️ Platforms: 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40"/>  
   <img src="https://img.icons8.com/color/40/000000/vmware.png" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/40/000000/parallels-desktop.png" width="40" height="40"/>
 
 - 📱 Mobile Development: 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/> 
