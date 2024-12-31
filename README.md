@@ -2,8 +2,8 @@
 
 ![Eduardo Junqueira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoJunqueira2004&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoJunqueira2004&layout=compact&theme=radical)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=EduardoJunqueira2004&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoJunqueira2004&layout=compact&theme=radical)  
 
 ---
 # Languages that I work with every day:
@@ -35,23 +35,23 @@
 ---
 
 ## Popular Projects always in change:
-- [Projeto-Programação2 JAVA](https://github.com/EduardoJunqueira2004/Projeto-P2)
-- [PRJ-10 MATLAB](https://github.com/EduardoJunqueira2004/PRJ-10)
-- [Projeto-Programação1 C](https://github.com/EduardoJunqueira2004/Projeto-P1)
-- [Projeto-Algoritmos e Estrutura de Dados C](https://github.com/EduardoJunqueira2004/Projeto-AED)
-- [Linguagem C all](https://github.com/EduardoJunqueira2004/C.git)
-- [Linguagem Phyton all](https://github.com/EduardoJunqueira2004/Python-All.git)
-- [DevOps implementation](https://github.com/EduardoJunqueira2004/GDP.git)
-- [WEBJohnDeere Fronted](https://github.com/EduardoJunqueira2004/WEBJohnDeere.git)
-- [LourencoGarces/Trab-1-Programação WEB Fronted+BackEnd](https://github.com/LourencoGarces/Trab-1-pw)
-- [Trabalho Prático Programação movel Kotlin](https://github.com/manuvskiii/TrabalhoPratico.git)
-- [SISEMB CODE C++](https://github.com/EduardoJunqueira2004/SISEMB_Code.git)
-- [SISEMB ATmega328P C++ exercices](https://github.com/EduardoJunqueira2004/ATmega328P-C-.git)
-- [Gestao de Mercadorias em Armazens JAVA](https://github.com/EduardoJunqueira2004/Gest-o-de-Mercadorias-em-Armaz-ns.git)
-- [Sistema Inteligent eTrafego Urbano Cyber-Physical](https://github.com/EduardoJunqueira2004/SistemaInteligenteTrafegoUrbano-Ciberfisico.git)
-- [Chess Game](https://github.com/EduardoJunqueira2004/ChessGame.git)
-- [Pascal Language](https://github.com/EduardoJunqueira2004/Pascal.git)
-- [Assembly code all](https://github.com/EduardoJunqueira2004/Assembly-code.git)
+- [Projeto-Programação2 JAVA](https://github.com/EduardoJunqueira2004/Projeto-P2)**: A university project showcasing advanced Java programming techniques.
+- [PRJ-10 MATLAB](https://github.com/EduardoJunqueira2004/PRJ-10)**: A university project showcasing advanced MATLAB programming techniques.
+- [Projeto-Programação1 C](https://github.com/EduardoJunqueira2004/Projeto-P1)**: A university project showcasing advanced C programming techniques.
+- [Projeto-Algoritmos e Estrutura de Dados C](https://github.com/EduardoJunqueira2004/Projeto-AED)**: A university project showcasing advanced C programming techniques.
+- [Assembly code all](https://github.com/EduardoJunqueira2004/Assembly-code.git)**: A university project showcasing advanced Java programming techniques.
+- [DevOps implementation](https://github.com/EduardoJunqueira2004/GDP.git)**: A  project showcasing all DevOps implementation.
+- [Trabalho Prático Programação movel Kotlin](https://github.com/manuvskiii/TrabalhoPratico.git)**: A university project showcasing advanced Kotlin programming techniques.
+- [LourencoGarces/Trab-1-Programação WEB Fronted+BackEnd](https://github.com/LourencoGarces/Trab-1-pw)**: A university project showcasing advanced Fronted+BackEnd in NODE.
+- [SISEMB CODE C++](https://github.com/EduardoJunqueira2004/SISEMB_Code.git)**: A university project showcasing advanced c++ programming techniques in Trinkercad.
+- [SISEMB ATmega328P C++ exercices](https://github.com/EduardoJunqueira2004/ATmega328P-C-.git)**: A university project showcasing advanced c++ programming techniques for ATmega328p.
+- [Sistema Inteligent eTrafego Urbano Cyber-Physical](https://github.com/EduardoJunqueira2004/SistemaInteligenteTrafegoUrbano-Ciberfisico.git)**: A  project showcasing all  Arduino in Arduino IDE with  ESP32 programming techniques.
+- [Linguagem C all](https://github.com/EduardoJunqueira2004/C.git)**: A  project showcasing all C programming techniques.
+- [Linguagem Phyton all](https://github.com/EduardoJunqueira2004/Python-All.git)**: A  project showcasing all Phyton programming techniques.
+- [Gestao de Mercadorias em Armazens JAVA](https://github.com/EduardoJunqueira2004/Gest-o-de-Mercadorias-em-Armaz-ns.git)**: A  project showcasing all JAVA programming techniques.
+- [Chess Game](https://github.com/EduardoJunqueira2004/ChessGame.git)**: A  project showcasing all Chess Game programming techniques.
+- [Pascal Language](https://github.com/EduardoJunqueira2004/Pascal.git)**: A  project showcasing all Pascal programming techniques.
+- - [WEBJohnDeere Fronted](https://github.com/EduardoJunqueira2004/WEBJohnDeere.git)**: A  API for WEBJohnDeere 
 
 ---
 
@@ -75,7 +75,10 @@
 
 ## Favorite Tools:
 - 📋 Code Editor: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40"/>
 - 🖥️ Platforms: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40"/>  <img src="https://img.icons8.com/color/40/000000/vmware.png" width="40" height="40"/>
+<img src="https://img.icons8.com/color/40/000000/parallels-desktop.png" width="40" height="40"/>
 - 📱 Mobile Development: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40"/>
 - 🎥 Content Creation: <img src="https://img.icons8.com/color/40/000000/youtube-play.png" width="40" height="40"/>
 - 🔧 Desenvolvimento:  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40"/>
