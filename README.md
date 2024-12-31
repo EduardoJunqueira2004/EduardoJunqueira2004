@@ -4,7 +4,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoJunqueira2004&layout=compact&theme=radical)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=EduardoJunqueira2004&theme=radical&hide_border=true)  
-![Contributions Graph](https://activity-graph.herokuapp.com/graph?username=EduardoJunqueira2004&theme=dracula)  
 
 ---
 # Languages that I work with every day:
@@ -71,9 +70,7 @@
   <a href="https://replit.com/@eduardoj3"><img src="https://img.shields.io/badge/Replit-orange?style=flat&logo=replit&logoColor=white" alt="Replit"></a>
   <a href="https://kotlinlang.org/docs/android-overview.html"><img src="https://img.shields.io/badge/Kotlin-purple?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"></a>
   <a href="https://profile.w3schools.com/profile/Eduardo Junqueira"><img src="https://img.shields.io/badge/W3Schools-green?style=flat&logo=w3c&logoColor=white" alt="W3Schools"></a>
-  <a href="https://www.codedex.io/@eduardomj2004"><img src="https://img.shields.io/badge/Codédex-blue?style=flat&logo=codédex&logoColor=white" alt="Codédex"></a>
-</p>
-
+   
 ---
 
 ## Favorite Tools:
