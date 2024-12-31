@@ -51,7 +51,7 @@
 - [Gestao de Mercadorias em Armazens JAVA](https://github.com/EduardoJunqueira2004/Gest-o-de-Mercadorias-em-Armaz-ns.git): A  project showcasing all JAVA programming techniques.
 - [Chess Game](https://github.com/EduardoJunqueira2004/ChessGame.git): A  project showcasing all Chess Game programming techniques.
 - [Pascal Language](https://github.com/EduardoJunqueira2004/Pascal.git): A  project showcasing all Pascal programming techniques.
-- - [WEBJohnDeere Fronted](https://github.com/EduardoJunqueira2004/WEBJohnDeere.git): A  API for WEBJohnDeere 
+- [WEBJohnDeere Fronted](https://github.com/EduardoJunqueira2004/WEBJohnDeere.git): A  API for WEBJohnDeere 
 
 ---
 
