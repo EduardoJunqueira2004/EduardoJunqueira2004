@@ -2,6 +2,11 @@
 
 ![Eduardo Junqueira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoJunqueira2004&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoJunqueira2004&layout=compact&theme=radical)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=EduardoJunqueira2004&theme=radical&hide_border=true)  
+![Contributions Graph](https://activity-graph.herokuapp.com/graph?username=EduardoJunqueira2004&theme=dracula)  
+
+---
 # Languages that I work with every day:
 <p>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -26,15 +31,9 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
-
-
-
-
-
-   
-
-
 </p>
+
+---
 
 ## Popular Projects always in change:
 - [Projeto-Programação2 JAVA](https://github.com/EduardoJunqueira2004/Projeto-P2)
@@ -42,6 +41,7 @@
 - [Projeto-Programação1 C](https://github.com/EduardoJunqueira2004/Projeto-P1)
 - [Projeto-Algoritmos e Estrutura de Dados C](https://github.com/EduardoJunqueira2004/Projeto-AED)
 - [Linguagem C all](https://github.com/EduardoJunqueira2004/C.git)
+- [Linguagem Phyton all](https://github.com/EduardoJunqueira2004/Python-All.git)
 - [DevOps implementation](https://github.com/EduardoJunqueira2004/GDP.git)
 - [WEBJohnDeere Fronted](https://github.com/EduardoJunqueira2004/WEBJohnDeere.git)
 - [LourencoGarces/Trab-1-Programação WEB Fronted+BackEnd](https://github.com/LourencoGarces/Trab-1-pw)
@@ -53,6 +53,9 @@
 - [Chess Game](https://github.com/EduardoJunqueira2004/ChessGame.git)
 - [Pascal Language](https://github.com/EduardoJunqueira2004/Pascal.git)
 - [Assembly code all](https://github.com/EduardoJunqueira2004/Assembly-code.git)
+
+---
+
 ## About Me @Eduardojunqueira:
 - 🧑🏻‍💻 I'm an Apple user and curious about IoT products!
 - 🎓 University student interested in programming more about Full Stack Engineer!
@@ -60,9 +63,18 @@
 - 🚀 Exploring development in C, C++, JAVA, Kotlin, Node, HTML, CSS, JavaScript, SQL, MATLAB, PHP, TypeScript, Go, Perl and Scala.
 -🎲 In my free time, I like playing chess, making videos on YouTube, and practicing cycling.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-junqueira-1696b5177)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@eduardomj2004?si=T7PVhTbsEY3FDfB8)
-[![Codecademy](https://img.shields.io/badge/Codecademy-black?style=flat&logo=codecademy&logoColor=white)](https://www.codecademy.com/profiles/eduardojunqueira)
+## 🌐 Connect with Me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduardo-junqueira-1696b5177"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://youtube.com/@eduardomj2004?si=T7PVhTbsEY3FDfB8"><img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.codecademy.com/profiles/eduardojunqueira"><img src="https://img.shields.io/badge/Codecademy-black?style=flat&logo=codecademy&logoColor=white" alt="Codecademy"></a>
+  <a href="https://replit.com/@eduardoj3"><img src="https://img.shields.io/badge/Replit-orange?style=flat&logo=replit&logoColor=white" alt="Replit"></a>
+  <a href="https://kotlinlang.org/docs/android-overview.html"><img src="https://img.shields.io/badge/Kotlin-purple?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"></a>
+  <a href="https://profile.w3schools.com/profile/Eduardo Junqueira"><img src="https://img.shields.io/badge/W3Schools-green?style=flat&logo=w3c&logoColor=white" alt="W3Schools"></a>
+  <a href="https://www.codedex.io/@eduardomj2004"><img src="https://img.shields.io/badge/Codédex-blue?style=flat&logo=codédex&logoColor=white" alt="Codédex"></a>
+</p>
+
+---
 
 ## Favorite Tools:
 - 📋 Code Editor: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
