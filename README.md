@@ -45,7 +45,7 @@
 - [LourencoGarces/Trab-1-Programação WEB Fronted+BackEnd](https://github.com/LourencoGarces/Trab-1-pw): A university project showcasing advanced Fronted+BackEnd in NODE.
 - [SISEMB CODE C++](https://github.com/EduardoJunqueira2004/SISEMB_Code.git): A university project showcasing advanced c++ programming techniques in Trinkercad.
 - [SISEMB ATmega328P C++ exercices](https://github.com/EduardoJunqueira2004/ATmega328P-C-.git): A university project showcasing advanced c++ programming techniques for ATmega328p.
-- [Sistema Inteligent eTrafego Urbano Cyber-Physical](https://github.com/EduardoJunqueira2004/SistemaInteligenteTrafegoUrbano-Ciberfisico.git): A university project showcasing all  Arduino in Arduino IDE with  ESP32 programming techniques.
+- [Intelligent-Traffic-System-CyberPhysical](https://github.com/EduardoJunqueira2004/Intelligent-Traffic-System-CyberPhysical.git): A university project showcasing all  Arduino in Arduino IDE with  ESP32 programming techniques.
 - [Linguagem C all](https://github.com/EduardoJunqueira2004/C.git): A  project showcasing all C programming techniques.
 - [Linguagem Phyton all](https://github.com/EduardoJunqueira2004/Python-All.git): A  project showcasing all Phyton programming techniques.
 - [Gestao de Mercadorias em Armazens JAVA](https://github.com/EduardoJunqueira2004/Gest-o-de-Mercadorias-em-Armaz-ns.git): A  project showcasing all JAVA programming techniques.
