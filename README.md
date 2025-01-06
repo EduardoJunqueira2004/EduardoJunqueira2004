@@ -1,8 +1,6 @@
 # Hello, I'am Eduardo Junqueira!
 
 ![Eduardo Junqueira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoJunqueira2004&show_icons=true&theme=radical)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=EduardoJunqueira2004&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoJunqueira2004&layout=compact&theme=radical)  
 
 ---
